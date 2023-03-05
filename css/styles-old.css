@@ -1,0 +1,101 @@
+body {
+    width: 1024px;
+    margin: 50px auto;
+}
+
+#header {
+    margin: 10px auto;
+    text-align: center;
+    width: 840px;
+}
+
+#tables {
+    margin: 0px;
+    width: 800px;
+}
+
+.table {
+    display: inline-block;
+    border: 1px solid gray;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.available {
+    cursor: pointer;
+    background-color: darkseagreen;
+}
+
+.vts4 {
+    width: 25px;
+    height: 50px;
+}
+
+.chillzone {
+    width: 50px;
+    height: 50px;
+    background-color: #1973be;
+}
+
+.hts4 {
+    width: 50px;
+    height: 25px;
+}
+
+.hts8 {
+    width: 100px;
+    height: 25px;
+}
+
+.vts8 {
+    width: 25px;
+    height: 100px;
+}
+
+.bl {
+    border-left: 1px solid black;
+}
+
+.br {
+    border-right: 1px solid black;
+}
+
+.bt {
+    border-top: 1px solid black;
+}
+
+.bb {
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+}
+
+.empty {
+    border: 0;
+    width: 6.25px;
+    display: inline-block;
+}
+
+.empty.block {
+    display: block;
+}
+.blocked{
+    background-color: black;
+    color: white;
+    font-size: 7px;
+}
+
+#sala{
+    width: 640px;
+    height: 400px;
+    position: absolute;
+    background-color: black;
+    -webkit-clip-path: polygon(10% 0%, 90% 0%, 100% 20%, 100% 80%, 90% 100%, 10% 100%, 0% 80%, 0% 20%);
+clip-path:             polygon(10% 0%, 90% 0%, 100% 20%, 100% 80%, 90% 100%, 10% 100%, 0% 80%, 0% 20%);
+    left:420px;
+    top:330px;
+    color: white;
+    font-size:60px;
+}

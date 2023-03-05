@@ -1,0 +1,259 @@
+<div>
+    <div class="bl br" style="width: 1100px;">
+        <!-- TOP ROOM -->
+        <div class="bt bb" style="padding-top:4px;">
+
+
+            <div>
+
+                <div class="inline">
+                    <!-- TOP FIRSTROW -->
+                    <div class="empty" style="width: 67.5px;"></div>
+                    <div data-table-id="1" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="2" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="3" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="" class="table hts4 blocked"> </div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="4" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="5" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="6" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="7" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="8" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+
+                    <div class="empty" style="width: 63.25px;"></div>
+                </div>
+                <div class="empty block" style="height: 45px; width:692px;"></div>
+
+                <div class="inline">
+                    <!-- TOP SECONDROW -->
+                    <div class="empty" style="width: 123.5px;"></div>
+
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="9" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="" class="table hts4 blocked" style="background-color:red;"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="10" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="" class="table hts4 blocked" style="background-color:blue;"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="11" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="" class="table hts4 blocked" style="background-color:red;"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="12" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="13" class="table hts4"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div class="empty"></div>
+                    <div data-table-id="14" class="table vts4"></div>
+                    <div class="empty" style="width: 63.25px;"></div>
+                </div>
+
+            </div>
+
+
+            <div class="inline" style="width:200px;">
+                <!-- CENTER -->
+
+                <div class="inline">
+                    <!-- CENTER LEFT -->
+
+                    <div class="empty block" style="height: 25px; width:100px;"></div>
+
+
+                    <div class="inline">
+                        <div class="empty" style="width: 10px;"></div>
+                        <div data-table-id="15" class="table vts4"></div>
+                        <div class="empty" style="width: 35px;"></div>
+                        <div data-table-id="16" class="table vts4"></div>
+                        <div class="empty"></div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="inline">
+                    <!-- CENTER LEFT -->
+
+                    <div class="empty block" style="height: 25px; width:100px;"></div>
+
+
+                    <div class="inline">
+                        <div class="empty" style="width: 10px;"></div>
+
+                        <div class="empty" style="width: 68px;"></div>
+                        <div data-table-id="17" class="table vts4"></div>
+                        <div class="empty"></div>
+
+                    </div>
+
+                </div>
+
+                <div class="inline">
+                    <!-- CENTER LEFT -->
+
+                    <div class="empty block" style="height: 25px; width:100px;"></div>
+
+
+                    <div class="inline">
+                        <div class="empty" style="width: 10px;"></div>
+
+                        <div class="empty" style="width: 68px;"></div>
+                        <div data-table-id="" class="table vts4 blocked" style="background-color:blue;"></div>
+                        <div class="empty"></div>
+
+                    </div>
+
+                </div>
+
+                <div class="inline">
+                    <!-- CENTER LEFT -->
+
+                    <div class="empty block" style="height: 25px; width:100px;"></div>
+
+
+                    <div class="inline">
+                        <div class="empty" style="width: 10px;"></div>
+
+                        <div class="empty" style="width: 68px;"></div>
+                        <div data-table-id="18" class="table vts4"></div>
+                        <div class="empty"></div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="inline">
+                    <!-- CENTER LEFT -->
+
+                    <div class="empty block" style="height: 25px; width:100px;"></div>
+
+
+                    <div class="inline">
+                        <div class="empty" style="width: 10px;"></div>
+
+                        <div class="empty" style="width: 68px;"></div>
+                        <div data-table-id="19" class="table vts4"></div>
+
+                        <div class="empty"></div>
+
+                    </div>
+
+                </div>
+
+
+
+
+
+
+                <div>
+
+                    <div class="inline">
+                        <!-- TOP FIRSTROW -->
+                        <div style="width: 1px; height: 70px"></div>
+                        <div data-table-id="" class="table hts4"
+                            style="background-color:black; height:70px; width:140px; color:white; font-size:20px;">
+                            <center><br>INTRARE</center>
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div class="inline">
+                    <!-- TOP FIRSTROW -->
+                    <div class="empty" style="width: 10px; height: 70px"></div>
+                    <div data-table-id="" class="table hts4" style="background-color:purple; color:white;">
+                        <center>BEST</center>
+                    </div>
+
+
+                </div>
+
+
+
+
+
+
+                <div class="empty block" style="height: 120px; width:100px;"></div>
+
+
+
+
+
+
+
+            </div>
+            <div id="sala">
+                <center><br><br>SALA</center>
+            </div>
+
+
+        </div>
+    </div>
+
+</div>
