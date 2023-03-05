@@ -158,7 +158,6 @@ background-image:url('<?php echo $url ?>');
 <div class="container mt-5 instructiuni ">
     <h3>Instructiuni:</h3>
     <ul>
-        <li>Atenție! Dacă ați fost logat inainte de 11:00 a.m trebuie sa dați un hard refresh (CTRL+F5).</li>
         <li>Aplicația va fi funcțională începand cu Luni, 06.03.2023, ora 10:00 A.M.</li>
         <li>Veți putea alege dintre standurile marcate cu verde (corespunzătoare numarului de metri pătrați al pachetului
         ales).</li>

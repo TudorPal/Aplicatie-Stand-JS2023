@@ -100,7 +100,7 @@ function occupyTable($table_id, $company_id) {
 
 function verifyTime() {
 
-	$open_date = '05.03.2023, 10:00 AM GMT+2';
+	$open_date = '06.03.2023, 10:00 AM GMT+2';
 	$open_time = (int)strtotime($open_date);
 
 	$now = time();
